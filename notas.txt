@@ -1,1 +1,5 @@
-hola mundo!
+Commandos:
+- git clone
+- git status
+- git add
+- git commit
